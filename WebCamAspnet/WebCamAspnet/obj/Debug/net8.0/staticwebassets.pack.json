@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebCamAspnet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebCamAspnet.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\DOCS.md",
+      "PackagePath": "staticwebassets\\Webcamjs\\DOCS.md"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\LICENSE",
+      "PackagePath": "staticwebassets\\Webcamjs"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\README.md",
+      "PackagePath": "staticwebassets\\Webcamjs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\bower.json",
+      "PackagePath": "staticwebassets\\Webcamjs\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\build.sh",
+      "PackagePath": "staticwebassets\\Webcamjs\\build.sh"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\basic.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\basic.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\click-to-run.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\click-to-run.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\combo.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\combo.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\constraints.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\constraints.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\continuous.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\continuous.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\crop-large.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\crop-large.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\crop.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\crop.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\events.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\flash-disabled.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\flash-disabled.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\flash.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\flash.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\flip-flash.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\flip-flash.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\flip.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\flip.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\hd.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\hd.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\ios-large.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\ios-large.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\large.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\large.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\preview.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\preview.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\reset.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\reset.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\sfx.html",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\sfx.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\shutter.mp3",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\shutter.mp3"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\demos\\shutter.ogg",
+      "PackagePath": "staticwebassets\\Webcamjs\\demos\\shutter.ogg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\flash\\README.txt",
+      "PackagePath": "staticwebassets\\Webcamjs\\flash\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\flash\\Webcam.as",
+      "PackagePath": "staticwebassets\\Webcamjs\\flash\\Webcam.as"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\flash\\Webcam.fla",
+      "PackagePath": "staticwebassets\\Webcamjs\\flash\\Webcam.fla"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\flash\\com\\adobe\\images\\BitString.as",
+      "PackagePath": "staticwebassets\\Webcamjs\\flash\\com\\adobe\\images\\BitString.as"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\flash\\com\\adobe\\images\\JPGEncoder.as",
+      "PackagePath": "staticwebassets\\Webcamjs\\flash\\com\\adobe\\images\\JPGEncoder.as"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\flash\\com\\adobe\\images\\PNGEncoder.as",
+      "PackagePath": "staticwebassets\\Webcamjs\\flash\\com\\adobe\\images\\PNGEncoder.as"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\flash\\mx\\utils\\Base64Encoder.as",
+      "PackagePath": "staticwebassets\\Webcamjs\\flash\\mx\\utils\\Base64Encoder.as"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\package.json",
+      "PackagePath": "staticwebassets\\Webcamjs\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\webcam.js",
+      "PackagePath": "staticwebassets\\Webcamjs\\webcam.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\webcam.min.js",
+      "PackagePath": "staticwebassets\\Webcamjs\\webcam.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\Webcamjs\\webcam.swf",
+      "PackagePath": "staticwebassets\\Webcamjs\\webcam.swf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\aspEstudo\\WebCamAspnet\\WebCamAspnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebCamAspnet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebCamAspnet.props",
+      "PackagePath": "build\\WebCamAspnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebCamAspnet.props",
+      "PackagePath": "buildMultiTargeting\\WebCamAspnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebCamAspnet.props",
+      "PackagePath": "buildTransitive\\WebCamAspnet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

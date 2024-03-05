@@ -1,0 +1,41 @@
+﻿
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Webcam Capture</title>
+    <script src="~/webcamjs/webcam.min.js"></script>
+</head>
+<body>
+    <h1>Captura de Imagem da Webcam</h1>
+    <div id="my_camera"></div>
+    <img id="img" alt="imagem carregada" style="width:100px !important">
+    <button onclick="captureImage()">Capturar Imagem</button>
+
+    <script>
+        Webcam.set({
+            width: 640,
+            height: 480,
+            dest_width: 640,
+            dest_height: 480,
+            image_format: 'jpeg',
+            jpeg_quality: 90
+        });
+        Webcam.attach('#my_camera');
+
+        function captureImage() {
+            Webcam.snap(function (data_uri) {
+                // Aqui você pode enviar a imagem para o servidor ou exibi-la na página
+                console.log('Imagem capturada:', data_uri);
+                document.querySelector("#img").src = data_uri;
+            });
+        }
+    </script>
+</body>
+</html>

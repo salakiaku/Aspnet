@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCamAspnet", "WebCamAspnet\WebCamAspnet.csproj", "{695B7772-B28B-4B29-9D39-D71E7CED8A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695B7772-B28B-4B29-9D39-D71E7CED8A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695B7772-B28B-4B29-9D39-D71E7CED8A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695B7772-B28B-4B29-9D39-D71E7CED8A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695B7772-B28B-4B29-9D39-D71E7CED8A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B2360AE-C0DD-4D53-B524-7F87679A67BE}
+	EndGlobalSection
+EndGlobal
